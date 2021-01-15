@@ -9,7 +9,7 @@ Please cite our work if you find it useful for your research and work.
 @article{Zeng2020model,
   title={Unsupervised Variational Autoencoder Based on Adaptive Weight Optimization for Anomaly Detection of Heart Disease},
   author={Xianhua Zeng, Suxin Chen, and Yicai Xie},
-  journal={Xianhua Zeng, Suxin Chen, and Yicai Xie},
+  journal={},
   pages={},
   year={2020},
   publisher={IEEE}
