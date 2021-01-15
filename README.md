@@ -19,7 +19,10 @@ Please cite our work if you find it useful for your research and work.
 ## Run
 This is part of the function description:
 ```
-Cardiotocography.npy is the dataset of Cardiotocography.
 Model.pth is the model of Cardiotocography dataset.
 inference.py is the inference algorithm of Cardiotocography dataset.
 ```
+
+## Result
+The accuracy, precision, recall, f_score of Cardiotocography dataset in our model:
+
