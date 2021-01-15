@@ -25,4 +25,4 @@ inference.py is the inference algorithm of Cardiotocography dataset.
 
 ## Result
 The accuracy, precision, recall, f_score of Cardiotocography dataset in our model:
-![image cannot find]{https://github.com/Chenxinxin1221/paper_demo/commit/2e92d880345e070b1023a97938ce86344da466e2?short_path=26517ae#diff-26517aeaff664fdc035db7998afb136f8a24ac3f1774173ac24482ac4c3ffa9c}
+![image cannot find](https://github.com/Chenxinxin1221/paper_demo/commit/2e92d880345e070b1023a97938ce86344da466e2?short_path=26517ae#diff-26517aeaff664fdc035db7998afb136f8a24ac3f1774173ac24482ac4c3ffa9c)
