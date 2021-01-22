@@ -30,3 +30,5 @@ The accuracy, precision, recall, f_score of Cardiotocography dataset in our mode
 ![image cannot find](https://github.com/Chenxinxin1221/paper_demo/blob/main/image/03.png)
 ![image cannot find](https://github.com/Chenxinxin1221/paper_demo/blob/main/image/04.png)
 ![image cannot find](https://github.com/Chenxinxin1221/paper_demo/blob/main/image/05.png)
+
+## The authors want to thank everyone who helped
