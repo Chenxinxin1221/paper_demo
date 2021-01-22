@@ -107,7 +107,7 @@ Average_cycle = 4
 result = []
 diff_quantity_result = []
 for i in range(6,7):
-    N_train = int(All_train * Ratio * (i+2))      # 把8改为i+2
+    N_train = int(All_train * Ratio * (i+2))      
     result = []
     # print(Ratio * (i+2))
     for i in range(1):
