@@ -1,19 +1,12 @@
 # paper_demo
-This is the official code of "Unsupervised Variational Autoencoder Based on Adaptive Weight Optimization for Anomaly Detection of Heart Disease" (authors：Xianhua Zeng, Suxin Chen, and Yicai Xie)
+This is the official code of "Unsupervised Variational Autoencoder Based on Adaptive Weight Optimization for Anomaly Detection of Heart Disease" (authors：Xianhua Zeng, Suxin Chen, Yicai Xie, Tianxing Liao and Yang Zhuo)
 
 Please reach us via emails or via github issues for any enquiries!
 
 Please cite our work if you find it useful for your research and work.
 
 ```
-@article{Zeng2020model,
-  title={Unsupervised Variational Autoencoder Based on Adaptive Weight Optimization for Anomaly Detection of Heart Disease},
-  author={Xianhua Zeng, Suxin Chen, and Yicai Xie},
-  journal={},
-  pages={},
-  year={2021},
-  publisher={IEEE}
-}
+
 ```
 
 ## Run
